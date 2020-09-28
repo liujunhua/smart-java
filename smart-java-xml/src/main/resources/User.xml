@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User id="1">
+        <Name>tom</Name>
+        <age>18</age>
+    </User>
+    <User id="2">
+        <Name>baozi</Name>
+        <age>20</age>
+    </User>
+</Users>
