@@ -10,6 +10,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>smart-java-xml</module>
+        <module>smart-java-reflect</module>
+        <module>smart-java-concurrent</module>
     </modules>
 
     <dependencyManagement>
