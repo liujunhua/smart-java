@@ -2,10 +2,11 @@ package smart.java.concurrent;
 
 /**
  * @author liujunhua
- * @description: TODO
- * @date 2020/10/2714:44
+ * @date 2020/10/27 14:44
+ * @description: JoinDemo
  */
 public class JoinDemo {
+
     public volatile static int i = 0;
 
     public static class JoinThread extends Thread {
@@ -21,4 +22,5 @@ public class JoinDemo {
         joinThread.join();
         System.out.println(i);
     }
+
 }
